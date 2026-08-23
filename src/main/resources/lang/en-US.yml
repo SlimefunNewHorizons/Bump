@@ -111,6 +111,9 @@ items:
     lore:
       - ""
       - "&b&k|&b- The power of the soul"
+      - "&7Required by the Soul Sword."
+      - "&8Progression: Necrotic Skull ->"
+      - "&8Essence of Afterlife -> Soul Talisman"
       - ""
   ksf_stuff:
     name: "&eInstant Noodle Seasoning"
@@ -225,6 +228,8 @@ items:
       - "&b&k|&b- &7&oThe soul of the devil is injected here..."
       - "&b&k|&b- &e&oRight click &7&oto make a low growl..."
       - "&b&k|&b- &7&oTurn &7&oyour &e&osatiety &7&ointo &e&ohealth&7&o..."
+      - "&7Crafting station: &eArmor Forge"
+      - "&8Soul Talisman + Diamond Sword + Soul Talisman"
       - ""
   sky_sword:
     name: "&6Heaven Breaking Sword"
@@ -383,4 +388,3 @@ appraise_info:
     range: "&7Range: &b{0} &7~ &b{1}"
     weight: "&7Weight: &b{0}%"
 attributes:
-
